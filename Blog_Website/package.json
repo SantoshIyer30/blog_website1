@@ -1,0 +1,26 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.7.4",
+    "express": "^4.17.3",
+    "lodash": "^4.17.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantoshIyer30/Blog_Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SantoshIyer30/Blog_Website/issues"
+  },
+  "homepage": "https://github.com/SantoshIyer30/Blog_Website#readme",
+  "description": ""
+}
